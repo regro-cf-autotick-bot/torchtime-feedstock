@@ -1,11 +1,11 @@
-About torchtime
-===============
+About torchtime-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/torchtime-feedstock/blob/main/LICENSE.txt)
 
 Home: https://philipdarke.com/torchtime
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/torchtime-feedstock/blob/main/LICENSE.txt)
 
 Summary: Benchmark time series data sets for PyTorch
 
