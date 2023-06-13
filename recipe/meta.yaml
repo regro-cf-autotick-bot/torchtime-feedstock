@@ -1,5 +1,5 @@
 {% set name = "torchtime" %}
-{% set version = "0.5.1" %}
+{% set version = "0.6.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/torchtime-{{ version }}.tar.gz
-  sha256: 45ce7d95fa9974f0c6edb967cf08546f68b00e49d0f997a6a69281900f3de886
+  sha256: ac869b6362f4ce15383748f414453f093371bc35680a76bf64b41f0890113ee4
 
 build:
   number: 0
